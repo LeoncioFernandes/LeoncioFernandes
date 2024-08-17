@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06754c,100:130675&fontAlign=50&section=header"/>
 
 <!--### Olá! Eu sou Leoncio Fernandes, sejam bem vindos! 😎 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D2D9E4&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+Leoncio+Fernandes!;Sejam+bem+vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Barlow+Condensed&weight=200&size=40&duration=4000&pause=1000&color=CCF7D8&center=true&vCenter=true&width=1000&height=55&lines=Ol%C3%A1!+Eu+sou+Leoncio+Fernandes!;Sejam+muito+bem+vindos!+%F0%9F%98%81)](https://git.io/typing-svg)
 
 
 - 💻 Desenvolvedor Front-End.
